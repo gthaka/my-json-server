@@ -17,5 +17,1231 @@
   ],
   "profile": {
     "name": "gthaka"
-  }
+  },
+  "countries": [
+    {
+      "code": "DZ",
+      "name": "Algeria",
+      "nationality": "Algerian",
+      "zip": 213
+    },
+    {
+      "code": "AD",
+      "name": "Andorra",
+      "nationality": "Andorran",
+      "zip": 376
+    },
+    {
+      "code": "AO",
+      "name": "Angola",
+      "nationality": "Angolan",
+      "zip": 244
+    },
+    {
+      "code": "AQ",
+      "name": "Antarctica",
+      "nationality": "Antartican",
+      "zip": 672
+    },
+    {
+      "code": "AR",
+      "name": "Argentina",
+      "nationality": "Argentinian",
+      "zip": 54
+    },
+    {
+      "code": "AM",
+      "name": "Armenia",
+      "nationality": "Armenian",
+      "zip": 374
+    },
+    {
+      "code": "AW",
+      "name": "Aruba",
+      "nationality": "Aruban",
+      "zip": 297
+    },
+    {
+      "code": "AU",
+      "name": "Australia",
+      "nationality": "Australian",
+      "zip": 61
+    },
+    {
+      "code": "AT",
+      "name": "Austria",
+      "nationality": "Austrian",
+      "zip": 43
+    },
+    {
+      "code": "AZ",
+      "name": "Azerbaijan",
+      "nationality": "Azerbaijani",
+      "zip": 994
+    },
+    {
+      "code": "BH",
+      "name": "Bahrain",
+      "nationality": "Bahraini",
+      "zip": 973
+    },
+    {
+      "code": "BD",
+      "name": "Bangladesh",
+      "nationality": "Bangladeshi",
+      "zip": 880
+    },
+    {
+      "code": "BY",
+      "name": "Belarus",
+      "nationality": "Belarusian",
+      "zip": 375
+    },
+    {
+      "code": "BE",
+      "name": "Belgium",
+      "nationality": "Belgian",
+      "zip": 32
+    },
+    {
+      "code": "BZ",
+      "name": "Belize",
+      "nationality": "Belizeans",
+      "zip": 501
+    },
+    {
+      "code": "BJ",
+      "name": "Benin",
+      "nationality": "Beninese",
+      "zip": 229
+    },
+    {
+      "code": "BT",
+      "name": "Bhutan",
+      "nationality": "Bhutanese",
+      "zip": 975
+    },
+    {
+      "code": "BO",
+      "name": "Bolivia",
+      "nationality": "Bolivian",
+      "zip": 591
+    },
+    {
+      "code": "BQ",
+      "name": "Bonaire",
+      "nationality": "Bonairean",
+      "zip": 599
+    },
+    {
+      "code": "BW",
+      "name": "Botswana",
+      "nationality": "Botswana",
+      "zip": 267
+    },
+    {
+      "code": "BV",
+      "name": "Bouvet Island",
+      "nationality": "Bouvet Islander",
+      "zip": 47
+    },
+    {
+      "code": "BR",
+      "name": "Brazil",
+      "nationality": "Brazilian",
+      "zip": 55
+    },
+    {
+      "code": "BN",
+      "name": "Brunei Darussalam",
+      "nationality": "Bruneian",
+      "zip": 673
+    },
+    {
+      "code": "BG",
+      "name": "Bulgaria",
+      "nationality": "Bulgarian",
+      "zip": 359
+    },
+    {
+      "code": "BF",
+      "name": "Burkina Faso",
+      "nationality": "Burkinabes",
+      "zip": 226
+    },
+    {
+      "code": "BI",
+      "name": "Burundi",
+      "nationality": "Burundian",
+      "zip": 257
+    },
+    {
+      "code": "KH",
+      "name": "Cambodia",
+      "nationality": "Cambodian",
+      "zip": 855
+    },
+    {
+      "code": "CM",
+      "name": "Cameroon",
+      "nationality": "Cameroonian",
+      "zip": 237
+    },
+    {
+      "code": "CA",
+      "name": "Canada",
+      "nationality": "Canadian",
+      "zip": 1
+    },
+    {
+      "code": "CV",
+      "name": "Cape Verde",
+      "nationality": "Cape Verdean",
+      "zip": 238
+    },
+    {
+      "code": "TD",
+      "name": "Chad",
+      "nationality": "Chadians",
+      "zip": 235
+    },
+    {
+      "code": "CL",
+      "name": "Chile",
+      "nationality": "Chilean",
+      "zip": 56
+    },
+    {
+      "code": "CN",
+      "name": "China",
+      "nationality": "Chinese",
+      "zip": 86
+    },
+    {
+      "code": "CX",
+      "name": "Christmas Island",
+      "nationality": "Christmas Islander",
+      "zip": 61
+    },
+    {
+      "code": "CO",
+      "name": "Colombia",
+      "nationality": "Colombian",
+      "zip": 57
+    },
+    {
+      "code": "KM",
+      "name": "Comoros",
+      "nationality": "Comorian",
+      "zip": 269
+    },
+    {
+      "code": "CG",
+      "name": "Congo",
+      "nationality": "Congolese",
+      "zip": 242
+    },
+    {
+      "code": "CK",
+      "name": "Cook Islands",
+      "nationality": "Cook Islander",
+      "zip": 682
+    },
+    {
+      "code": "CR",
+      "name": "Costa Rica",
+      "nationality": "Costa Rican",
+      "zip": 506
+    },
+    {
+      "code": "HR",
+      "name": "Croatia",
+      "nationality": "Croatian",
+      "zip": 385
+    },
+    {
+      "code": "CU",
+      "name": "Cuba",
+      "nationality": "Cuban",
+      "zip": 53
+    },
+    {
+      "code": "CW",
+      "name": "Curacao",
+      "nationality": "Curacaoan",
+      "zip": 599
+    },
+    {
+      "code": "CY",
+      "name": "Cyprus",
+      "nationality": "Cypriot",
+      "zip": 357
+    },
+    {
+      "code": "CZ",
+      "name": "Czech Republic",
+      "nationality": "Czech",
+      "zip": 420
+    },
+    {
+      "code": "CI",
+      "name": "Cote D'Ivoire",
+      "nationality": "Ivoirian",
+      "zip": 225
+    },
+    {
+      "code": "DK",
+      "name": "Denmark",
+      "nationality": "Dutch",
+      "zip": 45
+    },
+    {
+      "code": "DJ",
+      "name": "Djibouti",
+      "nationality": "Djiboutian",
+      "zip": 253
+    },
+    {
+      "code": "EC",
+      "name": "Ecuador",
+      "nationality": "Ecuadorian",
+      "zip": 593
+    },
+    {
+      "code": "EG",
+      "name": "Egypt",
+      "nationality": "Egyptian",
+      "zip": 20
+    },
+    {
+      "code": "SV",
+      "name": "El Salvador",
+      "nationality": "Salvadorian",
+      "zip": 503
+    },
+    {
+      "code": "GQ",
+      "name": "Equatorial Guinea",
+      "nationality": "Guinean",
+      "zip": 240
+    },
+    {
+      "code": "ER",
+      "name": "Eritrea",
+      "nationality": "Eritrean",
+      "zip": 291
+    },
+    {
+      "code": "EE",
+      "name": "Estonia",
+      "nationality": "Estonian",
+      "zip": 372
+    },
+    {
+      "code": "ET",
+      "name": "Ethiopia",
+      "nationality": "Ethiopian",
+      "zip": 251
+    },
+    {
+      "code": "FO",
+      "name": "Faroe Islands",
+      "nationality": "Faroese",
+      "zip": 298
+    },
+    {
+      "code": "FJ",
+      "name": "Fiji",
+      "nationality": "Fijian",
+      "zip": 679
+    },
+    {
+      "code": "FI",
+      "name": "Finland",
+      "nationality": "Finnish",
+      "zip": 358
+    },
+    {
+      "code": "FR",
+      "name": "France",
+      "nationality": "French",
+      "zip": 33
+    },
+    {
+      "code": "GF",
+      "name": "French Guiana",
+      "nationality": "Guianese",
+      "zip": 594
+    },
+    {
+      "code": "PF",
+      "name": "French Polynesia",
+      "nationality": "Polynesian",
+      "zip": 689
+    },
+    {
+      "code": "GA",
+      "name": "Gabon",
+      "nationality": "Gabonese",
+      "zip": 241
+    },
+    {
+      "code": "GM",
+      "name": "Gambia",
+      "nationality": "Gambian",
+      "zip": 220
+    },
+    {
+      "code": "GE",
+      "name": "Georgia",
+      "nationality": "Georgian",
+      "zip": 995
+    },
+    {
+      "code": "DE",
+      "name": "Germany",
+      "nationality": "German",
+      "zip": 49
+    },
+    {
+      "code": "GH",
+      "name": "Ghana",
+      "nationality": "Ghanaian",
+      "zip": 233
+    },
+    {
+      "code": "GI",
+      "name": "Gibraltar",
+      "nationality": "Gibraltarian",
+      "zip": 350
+    },
+    {
+      "code": "GR",
+      "name": "Greece",
+      "nationality": "Greek",
+      "zip": 30
+    },
+    {
+      "code": "GL",
+      "name": "Greenland",
+      "nationality": "Greenland",
+      "zip": 299
+    },
+    {
+      "code": "GP",
+      "name": "Guadeloupe",
+      "nationality": "Guadeloupian",
+      "zip": 590
+    },
+    {
+      "code": "GT",
+      "name": "Guatemala",
+      "nationality": "Guatemalan",
+      "zip": 502
+    },
+    {
+      "code": "GG",
+      "name": "Guernsey",
+      "nationality": "Channel Islander",
+      "zip": 44
+    },
+    {
+      "code": "GN",
+      "name": "Guinea",
+      "nationality": "Guinean",
+      "zip": 224
+    },
+    {
+      "code": "GW",
+      "name": "Guinea-Bissau",
+      "nationality": "Guinea Bissau",
+      "zip": 245
+    },
+    {
+      "code": "GY",
+      "name": "Guyana",
+      "nationality": "Guyanese",
+      "zip": 592
+    },
+    {
+      "code": "HT",
+      "name": "Haiti",
+      "nationality": "Haitian",
+      "zip": 509
+    },
+    {
+      "code": "HN",
+      "name": "Honduras",
+      "nationality": "Honduran",
+      "zip": 504
+    },
+    {
+      "code": "HK",
+      "name": "Hong Kong",
+      "nationality": "Hong Konger",
+      "zip": 852
+    },
+    {
+      "code": "HU",
+      "name": "Hungary",
+      "nationality": "Hungarian",
+      "zip": 36
+    },
+    {
+      "code": "IS",
+      "name": "Iceland",
+      "nationality": "Icelander",
+      "zip": 354
+    },
+    {
+      "code": "IN",
+      "name": "India",
+      "nationality": "Indian",
+      "zip": 91
+    },
+    {
+      "code": "ID",
+      "name": "Indonesia",
+      "nationality": "Indonesian",
+      "zip": 62
+    },
+    {
+      "code": "IQ",
+      "name": "Iraq",
+      "nationality": "Iraqi",
+      "zip": 964
+    },
+    {
+      "code": "IE",
+      "name": "Ireland",
+      "nationality": "Irish",
+      "zip": 353
+    },
+    {
+      "code": "IM",
+      "name": "Isle Of Man",
+      "nationality": "Manx",
+      "zip": 44
+    },
+    {
+      "code": "IL",
+      "name": "Israel",
+      "nationality": "Israeli",
+      "zip": 972
+    },
+    {
+      "code": "IT",
+      "name": "Italy",
+      "nationality": "Italian",
+      "zip": 39
+    },
+    {
+      "code": "JP",
+      "name": "Japan",
+      "nationality": "Japanese",
+      "zip": 81
+    },
+    {
+      "code": "JE",
+      "name": "Jersey",
+      "nationality": "Channel Islander",
+      "zip": 44
+    },
+    {
+      "code": "JO",
+      "name": "Jordan",
+      "nationality": "Jordanian",
+      "zip": 962
+    },
+    {
+      "code": "KZ",
+      "name": "Kazakhstan",
+      "nationality": "Kazakh",
+      "zip": 7
+    },
+    {
+      "code": "KE",
+      "name": "Kenya",
+      "nationality": "Kenyan",
+      "zip": 254
+    },
+    {
+      "code": "KI",
+      "name": "Kiribati",
+      "nationality": "I-Kiribati",
+      "zip": 686
+    },
+    {
+      "code": "KW",
+      "name": "Kuwait",
+      "nationality": "Kuwaiti",
+      "zip": 965
+    },
+    {
+      "code": "KG",
+      "name": "Kyrgyzstan",
+      "nationality": "Kyrgyz",
+      "zip": 996
+    },
+    {
+      "code": "LV",
+      "name": "Latvia",
+      "nationality": "Latvian",
+      "zip": 371
+    },
+    {
+      "code": "LB",
+      "name": "Lebanon",
+      "nationality": "Lebanese",
+      "zip": 961
+    },
+    {
+      "code": "LS",
+      "name": "Lesotho",
+      "nationality": "Sotho",
+      "zip": 266
+    },
+    {
+      "code": "LR",
+      "name": "Liberia",
+      "nationality": "Liberian",
+      "zip": 231
+    },
+    {
+      "code": "LY",
+      "name": "Libya",
+      "nationality": "Libyan",
+      "zip": 218
+    },
+    {
+      "code": "LI",
+      "name": "Liechtenstein",
+      "nationality": "Liechtensteiner",
+      "zip": 423
+    },
+    {
+      "code": "LT",
+      "name": "Lithuania",
+      "nationality": "Lithuanian",
+      "zip": 370
+    },
+    {
+      "code": "LU",
+      "name": "Luxembourg",
+      "nationality": "Luxembourger",
+      "zip": 352
+    },
+    {
+      "code": "MO",
+      "name": "Macao",
+      "nationality": "Macao",
+      "zip": 853
+    },
+    {
+      "code": "MG",
+      "name": "Madagascar",
+      "nationality": "Malagasy",
+      "zip": 261
+    },
+    {
+      "code": "MW",
+      "name": "Malawi",
+      "nationality": "Malawian",
+      "zip": 265
+    },
+    {
+      "code": "MY",
+      "name": "Malaysia",
+      "nationality": "Malaysian",
+      "zip": 60
+    },
+    {
+      "code": "MV",
+      "name": "Maldives",
+      "nationality": "Maldivian",
+      "zip": 960
+    },
+    {
+      "code": "ML",
+      "name": "Mali",
+      "nationality": "Malian",
+      "zip": 223
+    },
+    {
+      "code": "MT",
+      "name": "Malta",
+      "nationality": "Maltese",
+      "zip": 356
+    },
+    {
+      "code": "MH",
+      "name": "Marshall Islands",
+      "nationality": "Marshallese",
+      "zip": 692
+    },
+    {
+      "code": "MQ",
+      "name": "Martinique",
+      "nationality": "Martiniquais",
+      "zip": 596
+    },
+    {
+      "code": "MR",
+      "name": "Mauritania",
+      "nationality": "Mauritanian",
+      "zip": 222
+    },
+    {
+      "code": "MU",
+      "name": "Mauritius",
+      "nationality": "Mauritian",
+      "zip": 230
+    },
+    {
+      "code": "YT",
+      "name": "Mayotte",
+      "nationality": "Mahorais",
+      "zip": 262
+    },
+    {
+      "code": "MX",
+      "name": "Mexico",
+      "nationality": "Mexican",
+      "zip": 52
+    },
+    {
+      "code": "MC",
+      "name": "Monaco",
+      "nationality": "Monacan",
+      "zip": 377
+    },
+    {
+      "code": "MN",
+      "name": "Mongolia",
+      "nationality": "Mongolian",
+      "zip": 976
+    },
+    {
+      "code": "ME",
+      "name": "Montenegro",
+      "nationality": "Montenegrin",
+      "zip": 382
+    },
+    {
+      "code": "MA",
+      "name": "Morocco",
+      "nationality": "Moroccan",
+      "zip": 212
+    },
+    {
+      "code": "MZ",
+      "name": "Mozambique",
+      "nationality": "Mozambican",
+      "zip": 258
+    },
+    {
+      "code": "MM",
+      "name": "Myanmar",
+      "nationality": "Burmese",
+      "zip": 95
+    },
+    {
+      "code": "NA",
+      "name": "Namibia",
+      "nationality": "Namibian",
+      "zip": 264
+    },
+    {
+      "code": "NR",
+      "name": "Nauru",
+      "nationality": "Nauran",
+      "zip": 674
+    },
+    {
+      "code": "NP",
+      "name": "Nepal",
+      "nationality": "Nepalese",
+      "zip": 977
+    },
+    {
+      "code": "NL",
+      "name": "Netherlands",
+      "nationality": "Dutch",
+      "zip": 31
+    },
+    {
+      "code": "NC",
+      "name": "New Caledonia",
+      "nationality": "New Caledonian",
+      "zip": 687
+    },
+    {
+      "code": "NZ",
+      "name": "New Zealand",
+      "nationality": "New Zealander",
+      "zip": 64
+    },
+    {
+      "code": "NI",
+      "name": "Nicaragua",
+      "nationality": "Nicaraguan",
+      "zip": 505
+    },
+    {
+      "code": "NE",
+      "name": "Niger",
+      "nationality": "Nigerien",
+      "zip": 227
+    },
+    {
+      "code": "NG",
+      "name": "Nigeria",
+      "nationality": "Nigerian",
+      "zip": 234
+    },
+    {
+      "code": "NU",
+      "name": "Niue",
+      "nationality": "Niuean",
+      "zip": 683
+    },
+    {
+      "code": "NF",
+      "name": "Norfolk Island",
+      "nationality": "Norfolk Islander",
+      "zip": 672
+    },
+    {
+      "code": "NO",
+      "name": "Norway",
+      "nationality": "Norwegian",
+      "zip": 47
+    },
+    {
+      "code": "OM",
+      "name": "Oman",
+      "nationality": "Omani",
+      "zip": 968
+    },
+    {
+      "code": "PK",
+      "name": "Pakistan",
+      "nationality": "Pakistani",
+      "zip": 92
+    },
+    {
+      "code": "PW",
+      "name": "Palau",
+      "nationality": "Palauan",
+      "zip": 680
+    },
+    {
+      "code": "PS",
+      "name": "Palestine, State Of",
+      "nationality": "Pelestinian",
+      "zip": 970
+    },
+    {
+      "code": "PA",
+      "name": "Panama",
+      "nationality": "Panamanian",
+      "zip": 507
+    },
+    {
+      "code": "PG",
+      "name": "Papua New Guinea",
+      "nationality": "Papua New Guinean",
+      "zip": 675
+    },
+    {
+      "code": "PY",
+      "name": "Paraguay",
+      "nationality": "Paraguayan",
+      "zip": 595
+    },
+    {
+      "code": "PE",
+      "name": "Peru",
+      "nationality": "Peruvian",
+      "zip": 51
+    },
+    {
+      "code": "PH",
+      "name": "Philippines",
+      "nationality": "Philippino",
+      "zip": 63
+    },
+    {
+      "code": "PN",
+      "name": "Pitcairn Island",
+      "nationality": "Pitcairn Islander",
+      "zip": 870
+    },
+    {
+      "code": "PL",
+      "name": "Poland",
+      "nationality": "Pole",
+      "zip": 48
+    },
+    {
+      "code": "PT",
+      "name": "Portugal",
+      "nationality": "Portuguese",
+      "zip": 351
+    },
+    {
+      "code": "PR",
+      "name": "Puerto Rico",
+      "nationality": "Puerto Rican",
+      "zip": 1
+    },
+    {
+      "code": "QA",
+      "name": "Qatar",
+      "nationality": "Qatari",
+      "zip": 974
+    },
+    {
+      "code": "RO",
+      "name": "Romania",
+      "nationality": "Romanian",
+      "zip": 40
+    },
+    {
+      "code": "RU",
+      "name": "Russian Federation",
+      "nationality": "Russian",
+      "zip": 7
+    },
+    {
+      "code": "RW",
+      "name": "Rwanda",
+      "nationality": "Rwandese",
+      "zip": 250
+    },
+    {
+      "code": "RE",
+      "name": "Reunion",
+      "nationality": "Reunionnai",
+      "zip": 262
+    },
+    {
+      "code": "BL",
+      "name": "Saint Barthelemy",
+      "nationality": "Saint Barthelemian",
+      "zip": 590
+    },
+    {
+      "code": "SH",
+      "name": "Saint Helena",
+      "nationality": "Saint Helenian",
+      "zip": 290
+    },
+    {
+      "code": "WS",
+      "name": "Samoa",
+      "nationality": "Samoan",
+      "zip": 685
+    },
+    {
+      "code": "SM",
+      "name": "San Marino",
+      "nationality": "Sammarinese",
+      "zip": 378
+    },
+    {
+      "code": "SA",
+      "name": "Saudi Arabia",
+      "nationality": "Saudi",
+      "zip": 966
+    },
+    {
+      "code": "SN",
+      "name": "Senegal",
+      "nationality": "Senegalese",
+      "zip": 221
+    },
+    {
+      "code": "RS",
+      "name": "Serbia",
+      "nationality": "Serb",
+      "zip": 381
+    },
+    {
+      "code": "SC",
+      "name": "Seychelles",
+      "nationality": "Seychelloi",
+      "zip": 248
+    },
+    {
+      "code": "SL",
+      "name": "Sierra Leone",
+      "nationality": "Sierra Leonean",
+      "zip": 232
+    },
+    {
+      "code": "SG",
+      "name": "Singapore",
+      "nationality": "Singaporean",
+      "zip": 65
+    },
+    {
+      "code": "SK",
+      "name": "Slovakia",
+      "nationality": "Slovak",
+      "zip": 421
+    },
+    {
+      "code": "SI",
+      "name": "Slovenia",
+      "nationality": "Slovene",
+      "zip": 386
+    },
+    {
+      "code": "SB",
+      "name": "Solomon Islands",
+      "nationality": "Solomon Islander",
+      "zip": 677
+    },
+    {
+      "code": "SO",
+      "name": "Somalia",
+      "nationality": "Somali",
+      "zip": 252
+    },
+    {
+      "code": "ZA",
+      "name": "South Africa",
+      "nationality": "South African",
+      "zip": 27
+    },
+    {
+      "code": "SS",
+      "name": "South Sudan",
+      "nationality": "South Sudanese",
+      "zip": 211
+    },
+    {
+      "code": "ES",
+      "name": "Spain",
+      "nationality": "Spaniard",
+      "zip": 34
+    },
+    {
+      "code": "LK",
+      "name": "Sri Lanka",
+      "nationality": "Sri Lankan",
+      "zip": 94
+    },
+    {
+      "code": "SD",
+      "name": "Sudan",
+      "nationality": "Sudanese",
+      "zip": 249
+    },
+    {
+      "code": "SR",
+      "name": "Suriname",
+      "nationality": "Surinamese",
+      "zip": 597
+    },
+    {
+      "code": "SZ",
+      "name": "Eswatini",
+      "nationality": "Swazi",
+      "zip": 268
+    },
+    {
+      "code": "SE",
+      "name": "Sweden",
+      "nationality": "Swedish",
+      "zip": 46
+    },
+    {
+      "code": "CH",
+      "name": "Switzerland",
+      "nationality": "Swiss",
+      "zip": 41
+    },
+    {
+      "code": "SY",
+      "name": "Syrian Arab Republic",
+      "nationality": "Syrian",
+      "zip": 963
+    },
+    {
+      "code": "TW",
+      "name": "Taiwan",
+      "nationality": "Taiwanese",
+      "zip": 886
+    },
+    {
+      "code": "TJ",
+      "name": "Tajikistan",
+      "nationality": "Tajikistani",
+      "zip": 992
+    },
+    {
+      "code": "TH",
+      "name": "Thailand",
+      "nationality": "Thai",
+      "zip": 66
+    },
+    {
+      "code": "TL",
+      "name": "Timor-Leste",
+      "nationality": "Timorese",
+      "zip": 670
+    },
+    {
+      "code": "TG",
+      "name": "Togo",
+      "nationality": "Togolese",
+      "zip": 228
+    },
+    {
+      "code": "TK",
+      "name": "Tokelau",
+      "nationality": "Tokelau",
+      "zip": 690
+    },
+    {
+      "code": "TO",
+      "name": "Tonga",
+      "nationality": "Tongan",
+      "zip": 676
+    },
+    {
+      "code": "TN",
+      "name": "Tunisia",
+      "nationality": "Tunisian",
+      "zip": 216
+    },
+    {
+      "code": "TR",
+      "name": "Turkey",
+      "nationality": "Turk",
+      "zip": 90
+    },
+    {
+      "code": "TM",
+      "name": "Turkmenistan",
+      "nationality": "Turkmenistani",
+      "zip": 993
+    },
+    {
+      "code": "TV",
+      "name": "Tuvalu",
+      "nationality": "Tuvaluan",
+      "zip": 688
+    },
+    {
+      "code": "UG",
+      "name": "Uganda",
+      "nationality": "Ugandan",
+      "zip": 256
+    },
+    {
+      "code": "UA",
+      "name": "Ukraine",
+      "nationality": "Ukrainian",
+      "zip": 380
+    },
+    {
+      "code": "AE",
+      "name": "United Arab Emirates",
+      "nationality": "Emirati",
+      "zip": 971
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom",
+      "nationality": "Briton",
+      "zip": 44
+    },
+    {
+      "code": "US",
+      "name": "United States",
+      "nationality": "American",
+      "zip": 1
+    },
+    {
+      "code": "UY",
+      "name": "Uruguay",
+      "nationality": "Uruguayan",
+      "zip": 598
+    },
+    {
+      "code": "UZ",
+      "name": "Uzbekistan",
+      "nationality": "Uzbek",
+      "zip": 998
+    },
+    {
+      "code": "VU",
+      "name": "Vanuatu",
+      "nationality": "Vanuatuan",
+      "zip": 678
+    },
+    {
+      "code": "VE",
+      "name": "Venezuela",
+      "nationality": "Venezuelan",
+      "zip": 58
+    },
+    {
+      "code": "VN",
+      "name": "Viet Nam",
+      "nationality": "Vietnamese",
+      "zip": 84
+    },
+    {
+      "code": "WF",
+      "name": "Wallis And Futuna",
+      "nationality": "Wallis And Futuna Islander",
+      "zip": 681
+    },
+    {
+      "code": "EH",
+      "name": "Western Sahara",
+      "nationality": "Sahrai",
+      "zip": 212
+    },
+    {
+      "code": "YE",
+      "name": "Yemen",
+      "nationality": "Yemenese",
+      "zip": 967
+    },
+    {
+      "code": "ZM",
+      "name": "Zambia",
+      "nationality": "Zambian",
+      "zip": 260
+    },
+    {
+      "code": "ZW",
+      "name": "Zimbabwe",
+      "nationality": "Zimbabwean",
+      "zip": 263
+    },
+    {
+      "code": "AF",
+      "name": "Afghanistan",
+      "nationality": "Afghan",
+      "zip": 93
+    },
+    {
+      "code": "AL",
+      "name": "Albania",
+      "nationality": "Albanian",
+      "zip": 355
+    },
+    {
+      "code": "TZ",
+      "name": "Tanzania",
+      "nationality": "Tanzanian",
+      "zip": 255
+    }
+  ]
 }
